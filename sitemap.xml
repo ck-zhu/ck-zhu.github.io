@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/archive/index.html</loc>
+    <lastmod>2016-03-08T14:49:47.574Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2016/03/08/Ck-zhu%E7%9A%84%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2016-03-08T10:45:50.114Z</lastmod>
   </url>
